@@ -34,17 +34,17 @@ The project demonstrates how source code transforms into executable bytecode thr
 # ⚙️ Architecture
 
 Source Code
-↓
+→
 Lexer
-↓
+→
 Parser
-↓
+→
 AST
-↓
+→
 Bytecode Compiler
-↓
+→
 Virtual Machine
-↓
+→
 Execution Result
 
 ---
