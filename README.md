@@ -20,13 +20,10 @@ CVM++ demonstrates how modern programming languages work internally by transform
 - [Bytecode Example](#-bytecode-example)
 - [AST Example](#-ast-example)
 - [Virtual Machine Design](#-virtual-machine-design)
-- [Instruction Set Architecture](#-instruction-set-architecture)
 - [How to Build](#-how-to-build)
 - [How to Run](#-how-to-run)
 - [Learning Outcomes](#-learning-outcomes)
 - [Future Improvements](#-future-improvements)
-- [Screenshots](#-screenshots)
-- [Author](#-author)
 
 ---
 
