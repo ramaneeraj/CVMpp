@@ -382,24 +382,6 @@ FETCH → DECODE → EXECUTE
 
 ---
 
-# 🧩 Instruction Set Architecture
-
-Example Opcodes:
-
-| Opcode | Description |
-|---|---|
-| PUSH | Push value to stack |
-| POP | Remove stack top |
-| ADD | Addition |
-| SUB | Subtraction |
-| MUL | Multiplication |
-| DIV | Division |
-| STORE | Store variable |
-| LOAD | Load variable |
-| PRINT | Output value |
-
----
-
 # 🛠️ How to Build
 
 ## Compile
@@ -444,12 +426,6 @@ This project helped explore:
 - Arrays
 - String Support
 - Error Recovery
-- Bytecode Optimizer
-- Register-Based VM
-- Garbage Collection
-- JIT Compilation
-- Debugger
-- REPL Support
 
 ---
 
