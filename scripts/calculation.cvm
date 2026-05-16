@@ -1,0 +1,10 @@
+let a;
+let b;
+
+input(a);
+input(b);
+
+print(a + b);
+print(a - b);
+print(a * b);
+print(a / b);
