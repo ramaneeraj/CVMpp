@@ -55,8 +55,6 @@ This project helps in understanding:
 
 # 🎯 Project Motivation
 
-Most developers use programming languages without understanding what happens internally after writing code.
-
 CVM++ was built to explore:
 
 - How source code becomes machine-understandable instructions
@@ -221,12 +219,8 @@ CVMpp/
 ├── examples/
 │   ├── hello.cvm
 │   ├── calculator.cvm
-│   ├── boolean_demo.cvm
-│   └── input_demo.cvm
-│
-├── screenshots/
-│
-├── docs/
+│   ├── math.cvm
+│   └── variables.cvm
 │
 ├── README.md
 ├── LICENSE
@@ -459,46 +453,8 @@ This project helped explore:
 
 ---
 
-# 📸 Screenshots
-
-## AST Generation
-
-![AST](screenshots/ast.png)
-
----
-
-## Bytecode Output
-
-![Bytecode](screenshots/bytecode.png)
-
----
-
-## Virtual Machine Execution
-
-![VM](screenshots/vm_output.png)
-
----
-
-# 👨‍💻 Author
+# Done By
 
 ## Rama Neeraj Dungala
 
-Student at IIT Guwahati
-
-Passionate about:
-- Systems Programming
-- Compiler Design
-- Virtual Machines
-- Low-Level Programming
-- Programming Language Internals
-
 ---
-
-# ⭐ Acknowledgements
-
-Inspired by:
-- JVM
-- CPython VM
-- Lua VM
-- Crafting Interpreters
-- Compiler Design Principles
